@@ -1,0 +1,12 @@
+Your name: Chitwant Singh
+Your student ID: Not received yet
+Your major: Open University
+Your preferred email address: chitwant@gmail.com 
+Check one: [ ] Undergraduate, [ ] Graduate, [X] Open university 
+Repeating the class? [ ] Yes, [X] No
+Place and semester where you took a programming course in Java: Ohlone College 
+Course number and grade received: CS170 B
+Place and semester where you took a course in data structures: Boston College
+Course number and grade received: CSCI 1102 B
+Time it took you to answer the two questions below: 2-3
+Did you ask anyone for help? [ ] Yes, [X] No
