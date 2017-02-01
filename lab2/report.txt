@@ -2,3 +2,11 @@
 
 Chitwant Singh
 Jose Sandoval
+
+Is this directory inside our outside your cs151 directory? Why?
+oodp3code is outside of cs151, because use the linux command cd and then cloned the book code.
+
+Where is the code for the voice mail simulation?
+~/oodp3code/ch02/mail
+
+
