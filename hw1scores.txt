@@ -1,0 +1,46 @@
+Student: singh_chitwant
+Git submission (max 4): 4
+Git repo private (max 4): 0
+Submitted into (root)/hw1/* (max 4): 4
+Plain text aboutme.txt (max 4): 4
+Lists passes (max 8): 8
+Encodings passes (max 8): 8
+ 
+Please make your github repo to private status
+ 
+[5, 4, 1, 2, 9, 6]
+Expected: [5, 4, 1, 2, 9, 6]
+[1, 4, 1, 2, 9, 6]
+Expected: [1, 4, 1, 2, 9, 6]
+[1, 4, 9, 2, 2, 6]
+Expected: [1, 4, 9, 2, 2, 6]
+[4, 9, 2, 9, 4, 6]
+Expected: [4, 9, 2, 9, 4, 6]
+[1, 4, 1, 4, 1, 4]
+Expected: [1, 4, 1, 4, 1, 4]
+[1, 1, 1, 1, 1, 1]
+Expected: [1, 1, 1, 1, 1, 1]
+[1]
+Expected: [1]
+[-.., .-., ..-]
+[-.., .-., ..-]
+true
+[---.., --.-., --..-, -.--., -.-.-, -..--, .---., .--.-, .-.--, ..---]
+[---.., --.-., --..-, -.--., -.-.-, -..--, .---., .--.-, .-.--, ..---]
+true
+[--...., -.-..., -..-.., -...-., -....-, .--..., .-.-.., .-..-., .-...-, ..--.., ..-.-., ..-..-, ...--., ...-.-, ....--]
+[--...., -.-..., -..-.., -...-., -....-, .--..., .-.-.., .-..-., .-...-, ..--.., ..-.-., ..-..-, ...--., ...-.-, ....--]
+true
+ 
+Your name: Chitwant Singh
+Your student ID: Not received yet
+Your major: Open University
+Your preferred email address: chitwant@gmail.com 
+Check one: [ ] Undergraduate, [ ] Graduate, [X] Open university 
+Repeating the class? [ ] Yes, [X] No
+Place and semester where you took a programming course in Java: Ohlone College 
+Course number and grade received: CS170 B
+Place and semester where you took a course in data structures: Boston College
+Course number and grade received: CSCI 1102 B
+Time it took you to answer the two questions below: 2-3
+Did you ask anyone for help? [ ] Yes, [X] No
