@@ -1,6 +1,6 @@
 Student: singh_chitwant
 Git submission (max 4): 4
-Git repo private (max 4): 0
+Git repo private (max 4): 4
 Submitted into (root)/hw1/* (max 4): 4
 Plain text aboutme.txt (max 4): 4
 Lists passes (max 8): 8
